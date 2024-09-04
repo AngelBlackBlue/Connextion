@@ -1,4 +1,4 @@
-package Entities;
+package com.angelblackblue.connextion.apirest.connextion_api_rest.Entities;
 
 import java.util.UUID;
 
