@@ -11,6 +11,9 @@
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 - ![Table Plus](https://img.shields.io/badge/-Table%20Plus-FF9800?logo=table-plus&logoColor=white&style=for-the-badge)
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+
+
 
 ## Características
 
